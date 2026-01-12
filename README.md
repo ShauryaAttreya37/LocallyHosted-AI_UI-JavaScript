@@ -87,7 +87,7 @@ ollama list
 ### Step 2: Clone / Create Project
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/ShauryaAttreya37/LocallyHosted-AI_UI-JavaScript
 cd f1-ai-assistant
 ```
 
@@ -251,3 +251,4 @@ No cloud. No tracking. No fluff.
 * Electron ecosystem
 
 ```
+
